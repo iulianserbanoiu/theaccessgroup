@@ -4,7 +4,7 @@ How to run:
 
 Command line:
 1. Go to HotelAvailability solution folder 
-2. Open a CMD window 
+2. Open a CMD window at the path above
 3. Run command: dotnet build
 4. Run command: dotnet run --hotels hotels.json --bookings bookings.json
 5. Run commands specified in the challenge description
